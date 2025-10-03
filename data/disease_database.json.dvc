@@ -1,5 +1,5 @@
 outs:
-- md5: d41d8cd98f00b204e9800998ecf8427e
-  size: 0
+- md5: f98510fcf6d8cb5a2783c8894df3398f
+  size: 1870
   hash: md5
   path: disease_database.json
